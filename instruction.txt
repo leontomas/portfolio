@@ -1,0 +1,41 @@
+Main Features:
+Home/Landing page/section with Photo and introductory paragraph
+Projects Section
+Tools Section
+Contact Section
+Responsive Navbar
+Footer
+Social Media Links
+
+
+General Page Styles
+	Custom web page font style using Google fonts
+	Add text and Background colors
+
+The page should maintain its responsiveness on three types of devices (mobile,tablet and desktop)
+
+All Css code must be in an external CSS file.
+
+There should be no <br>elements in the source code.
+
+There should be no inline or internal CSS code.
+
+There should be no default web page fonts(times new roman)
+
+There should be no placeholder text in the page(like the lorem ipsum)
+
+There should be no horizontal scrolls when viewing the page
+
+There should be no dead links.
+
+Do not create another website other than the required developer portfolio
+
+Do not use other frameworks except bootstrap
+
+Do not use templates found in other sites.
+
+do not create another bootstrap website customize your portfolio
+
+
+
+home projects tools contacts
