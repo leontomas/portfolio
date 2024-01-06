@@ -119,5 +119,10 @@ ul#horizontal-list li {
 	display: inline;
 }
 
-
+.social-icon{
+	padding-left: 1px;
+	padding-right: 1px;
+	margin-left: 1px;
+	margin-right: 1px;
+}
 
